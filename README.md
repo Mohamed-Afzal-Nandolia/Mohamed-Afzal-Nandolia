@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Mohamed Afzal Nandolia, I am currently pursuing my master's degree from India, with a strong passion for Backend Development, I have developed skills in Java, Spring Boot, MySQL, and React. I am passionate about using my skills to help organization make RESTful web services. In addition to the technical skills.<br>
+Hello I'm Mohamed Afzal Nandolia, I am MCA Graduate, with a strong passion for Backend Development, I have developed skills in Java, Spring Boot, Python, Frappe Framework and MySQL. I am passionate about using my skills to help organization make RESTful web services. In addition to the technical skills.<br>
 
 
 ## 🌐 Socials:
